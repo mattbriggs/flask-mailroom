@@ -20,3 +20,7 @@ $ heroku addons:create heroku-postgresql:hobby-dev
 $ heroku run python setup.py
 $ heroku open
 ```
+
+## Matt Briggs published app
+
+http://flask-mailroom-mdb.herokuapp.com/donations/
